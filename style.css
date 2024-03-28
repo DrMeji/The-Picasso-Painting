@@ -160,112 +160,72 @@ body {
     z-index: 1;
 }
 
-.person1 {
+.person1, .person2, .person3, .person4, .person5, .person6, .person7, .person8, .person9, .person0 {
     width: 60px;
     height: 60px;
     position: absolute;
     top: 80%;
-    left: 1%;
     margin: auto;
     border-radius: 50%;
-    background-color: brown;
+    background-color: turquoise;
 }
-.person2 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
-    left: 5%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: purple;
 
+.person1 {
+    left: 1%;
+}
+
+.person2 {
+    left: 5%;
 }
 
 .person3 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
     left: 9%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: yellow;
 }
 
 .person4 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
     left: 13%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: skyblue;
 }
 
 .person5 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
     left: 17%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: rgb(235, 135, 197);
 }
 
 .person6 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
     left: 21%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: rgb(22, 6, 255);
 }
 
 .person7 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
+    width: 3vw;
+    height: 6vh;
     left: 25%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: rgb(0, 180, 54);
+    background-color: rgb(0, 0, 0);
 }
 
 .person8 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
+    width: 3vw;
+    height: 6vh;
     left: 29%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
 }
 
 .person9 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
+    width: 3vw;
+    height: 6vh;
     left: 33%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: rgb(225, 0, 255);
+    background-color: rgb(0, 0, 0);
 }
 
 .person0 {
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 80%;
+    width: 3vw;
+    height: 6vh;
     left: 37%;
-    margin: auto;
-    border-radius: 50%;
-    background-color: rgb(94, 255, 0);
+    background-color: rgb(0, 0, 0);
 }
+
+
+.form-container {
+    position: absolute;
+    top: 5%;
+    right: 1%;
+}
+
